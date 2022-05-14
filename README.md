@@ -32,7 +32,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Solution URL](https://github.com/najeeb-anwari/order-summary-component-using-flexbox/)
-- Live Site URL: [Live View URL](https://your-live-site-url.com)
+- Live Site URL: [Live View URL](https://najeeb-anwari.github.io/order-summary-component-using-flexbox/)
 
 ## My process
 
