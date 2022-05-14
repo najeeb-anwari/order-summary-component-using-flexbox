@@ -31,8 +31,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Solution](https://github.com/najeeb-anwari/order-summary-component-using-flexbox/)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Solution URL](https://github.com/najeeb-anwari/order-summary-component-using-flexbox/)
+- Live Site URL: [Live View URL](https://your-live-site-url.com)
 
 ## My process
 
